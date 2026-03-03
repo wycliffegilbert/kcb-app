@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "KCB Bank",
+    "slug": "kcb-bank",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#006B3F",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.kcbbank.app"
+    },
+    "android": {
+      "package": "com.kcbbank.app"
+    }
+  }
+}
