@@ -15,6 +15,11 @@
     },
     "android": {
       "package": "com.kcbbank.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "eb6b7590-4447-4d1c-bd7f-122c0dcf8517"
+      }
     }
   }
 }
